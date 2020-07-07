@@ -1,5 +1,20 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
+About project 
+screenshots:-
+
+![p1](https://user-images.githubusercontent.com/62255672/86779715-7f726280-c079-11ea-9565-4d85efbab66d.png)
+![p2](https://user-images.githubusercontent.com/62255672/86779726-839e8000-c079-11ea-9f5c-366ededd8328.png)
+![p3](https://user-images.githubusercontent.com/62255672/86779729-84371680-c079-11ea-8c6f-80060d92f727.png)
+![p4](https://user-images.githubusercontent.com/62255672/86779736-85684380-c079-11ea-98c8-12704faa4beb.png)
+![p5](https://user-images.githubusercontent.com/62255672/86779741-8600da00-c079-11ea-9ee3-7e3531f271e4.png)
+![p6](https://user-images.githubusercontent.com/62255672/86779742-86997080-c079-11ea-91ed-abe4a09072f7.png)
+![p7](https://user-images.githubusercontent.com/62255672/86779746-87320700-c079-11ea-99b5-027ab64783fe.png)
+![p8](https://user-images.githubusercontent.com/62255672/86779749-87ca9d80-c079-11ea-9451-09c8c7b1cbb9.png)
+![p9](https://user-images.githubusercontent.com/62255672/86779755-88fbca80-c079-11ea-93db-c583fb524300.png)
+![p10](https://user-images.githubusercontent.com/62255672/86779772-8d27e800-c079-11ea-8849-1ec9d89e07cf.png)
+
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
