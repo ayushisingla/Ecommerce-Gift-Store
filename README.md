@@ -1,7 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-
-About project 
-screenshots:-
+# Ecommerce Gift Store 
 
 ![p1](https://user-images.githubusercontent.com/62255672/86779715-7f726280-c079-11ea-9565-4d85efbab66d.png)
 ![p2](https://user-images.githubusercontent.com/62255672/86779726-839e8000-c079-11ea-9f5c-366ededd8328.png)
